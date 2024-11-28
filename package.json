@@ -53,7 +53,7 @@
     "@angular/platform-browser-dynamic": "~11.2.14",
     "@angular/router": "~11.2.14",
     "@auth0/auth0-angular": "1.5.1",
-    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
     "@ng-bootstrap/ng-bootstrap": "^6.1.0",
     "@silvermine/serverless-plugin-cloudfront-lambda-edge": "^2.1.1",
     "aws-sdk": "2.1558.0",
