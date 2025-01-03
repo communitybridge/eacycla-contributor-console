@@ -60,7 +60,7 @@
     "aws-sdk": "2.1558.0",
     "@types/node": "^18.16.0",
     "auth0-spa-js": "^1.6.5",
-    "bootstrap": "^4.4.0",
+    "bootstrap": "^5.0.0",
     "file-saver": "^2.0.5",
     "query-string": "^6.13.8",
     "rxjs": "~6.6.3",
